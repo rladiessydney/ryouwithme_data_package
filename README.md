@@ -33,4 +33,4 @@ And this dataset that is used in VizWhiz 3 to demonstrate geom_point plots.
 
 - rain_temp_bugs
 
-You can find the [#RYouWithMe modules](https://rladiessydney.org/courses/ryouwithme/) at the R-Ladies Sydney website. 
+You can find the [#RYouWithMe modules](https://rladiessydney.org/courses/) at the R-Ladies Sydney website. 
